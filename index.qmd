@@ -2,8 +2,14 @@
 title: "Portfolio"
 ---
 
+```{r}
+X = 1 + 5
+X
+
+```
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-This is my test version. 
+This is my test version.
